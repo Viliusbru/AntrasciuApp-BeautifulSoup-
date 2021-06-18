@@ -1,1 +1,1 @@
-Atrenkame "Delfi" antrastes su dvitaskiu. Idedame antrastes teksta iki dvitaskio i viena sarasa, antra antrastes dali idedame i kita sarasa. Antra sarasa ismaisome. Tada sujungiame antrastes atgal, tik jau su ismaisytomis antromis dalimis.
+Atrenkame "Delfi" antrastes su dvitaskiu tekste. Idedame antrastes teksta iki dvitaskio i viena sarasa, antra antrastes dali idedame i kita sarasa. Antra sarasa ismaisome. Tada sujungiame antrastes atgal, tik jau su ismaisytomis antromis dalimis.
