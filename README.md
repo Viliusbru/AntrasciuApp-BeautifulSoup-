@@ -1,1 +1,1 @@
-Atrenkame "Delfi" antrastes su dvitaskiu tekste. Idedame antrastes teksta iki dvitaskio i viena sarasa, antra antrastes dali idedame i kita sarasa. Antra sarasa ismaisome. Tada sujungiame antrastes atgal, tik jau su ismaisytomis antromis dalimis.
+Selects "Delfi.lt" headers with a two-point text. We put the second part of the text up to the semicolon in one list, puts the second part of the second part in the other list. We stir the second list. Then we merge the headers back, only with the already mixed second parts.
